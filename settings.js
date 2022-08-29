@@ -7,17 +7,17 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6282239202895']
-global.premium = ['6282239202895']
-global.youtube = 'https://youtube.com/c/AlwiOfc'
-global.ownername = 'AlwiOfc'
-global.botname ='SanoBotz-Md'
+global.owner = ['6285669833748']
+global.premium = ['6285669833748']
+global.youtube = 'https://youtube.com/c/Adam'
+global.ownername = 'AdamOfc'
+global.botname ='XDam.botz-Md'
 global.donasi = {
-    saweria: 'Dana Aja 082239202895',
-    nomor: '082239202895'
+    saweria: 'Dana Aja 6285669833748',
+    nomor: '6285669833748'
 }
-global.packname = 'SanoBotz-Md'
-global.author = '©By alwiOfc'
+global.packname = 'XDam.botz-Md'
+global.author = '©By AdamOfc'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
