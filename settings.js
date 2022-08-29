@@ -7,17 +7,17 @@ global.APIs = {
 }
 
 // Other
-global.owner = ['6281575886399']
-global.premium = ['6281575886399']
-global.youtube = 'https://youtube.com/c/Riy'
-global.ownername = 'Riy'
-global.botname ='Hinata-Md'
+global.owner = ['6282239202895']
+global.premium = ['6282239202895']
+global.youtube = 'https://youtube.com/c/AlwiOfc'
+global.ownername = 'AlwiOfc'
+global.botname ='SanoBotz-Md'
 global.donasi = {
-    saweria: 'https://saweria.co/riy20',
-    nomor: '081575886399'
+    saweria: 'Dana Aja 082239202895',
+    nomor: '082239202895'
 }
-global.packname = 'Hinata-Md'
-global.author = 'WhatsApp Bot'
+global.packname = 'SanoBotz-Md'
+global.author = '©By alwiOfc'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
